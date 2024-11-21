@@ -1,3 +1,5 @@
+
+<html>
 <?php
 session_start();
 error_reporting(0);
@@ -176,4 +178,5 @@ foreach($results as $result)
 <?php include('includes/write-us.php');?>			
 <!-- //write us -->
 </body>
+</html>
 </html>
